@@ -34,6 +34,6 @@ setInterval(function(){
       console.log("starting execution");
       document.getElementsByTagName('colab-run-button')[1].click()
     },1000);
-}, 180000);
+}, 300000);
 ```
 
